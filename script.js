@@ -2,7 +2,7 @@
 const levelElement = document.getElementbyId("level");
 let level = 1;
 
-while(false){
+while(true){
 	if(levelElement.tagNme === "HTML"){
 		break
 	}
